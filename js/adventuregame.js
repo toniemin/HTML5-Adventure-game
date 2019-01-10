@@ -3,11 +3,11 @@
  * Program constants.
  * 
  */
-const COIN100 = "url('http://www.sis.uta.fi/~tn424727/jwt/ht/img/coin100.png')";
-const COIN500 = "url('http://www.sis.uta.fi/~tn424727/jwt/ht/img/coin500.png')";
-const COIN1000 = "url('http://www.sis.uta.fi/~tn424727/jwt/ht/img/coin1000.gif')";
-const PLAYER_AVATAR_DEFAULT = "url('http://www.sis.uta.fi/~tn424727/jwt/ht/img/player.png')";
-const PLAYER_AVATAR_MLG = "url('http://www.sis.uta.fi/~tn424727/jwt/ht/img/player_mlg.gif')";
+const COIN100 = "../img/coin100.png";
+const COIN500 = "../img/coin500.png";
+const COIN1000 = "../img/coin1000.gif";
+const PLAYER_AVATAR_DEFAULT = "../img/player.png";
+const PLAYER_AVATAR_MLG = "../img/player_mlg.gif')";
 
 /*
  * Handles for error output, player name output and score output.
