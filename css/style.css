@@ -1,0 +1,60 @@
+/* 
+    Created on : May 8, 2018, 12:13:24 AM
+    Author     : Topi
+*/
+
+body {
+  /*background-color: #0099ff;*/
+}
+
+.container * {
+  /*background-color: #ffffff;*/
+}
+
+h1 {
+  text-align: center;
+  border: gray 1pt ridge;
+  padding: 20px 0;
+}
+
+.game-area {
+  text-align: center;
+  background-color: gray;
+}
+
+.control-area {
+  margin-top: 20px;
+}
+
+.block {
+  display: block;
+  border: white 1pt solid;
+  background-color: lightgray;
+  min-height: 100px;
+  max-height: 100px;
+  min-width: 100px;
+  max-width: 100px;
+  margin: 0;
+}
+
+.ctrl-heading {
+  width: 100%;
+  text-align: center;
+  background-color: royalblue;
+}
+
+#pl-name {
+  text-align: end;
+}
+
+#name-btn {
+  margin-left: 20px;
+}
+
+.btn.btn-primary {
+  width: 70px;
+}
+
+/*.col, .col-md-4, .col-md-8 {
+  border: #000000 1pt dashed;
+}*/
